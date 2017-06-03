@@ -1,0 +1,34 @@
+{
+  "name": "sumar",
+  "version": "0.0.1",
+  "description": "Sum of all the values of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/sumar.git"
+  },
+  "keywords": [
+    "sum",
+    "array",
+    "arrow-functions",
+    "reduce",
+    "es6"
+  ],
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/sumar/issues"
+  },
+  "homepage": "https://github.com/nhsz/sumar#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
