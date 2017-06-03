@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/sumar.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sumar/)
 
-> Sum all the values of an array
+> Sum all the values of an array, if they are all numeric
 
 
 ## Install
